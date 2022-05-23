@@ -1,0 +1,26 @@
+{
+    "name": "caillioux/service-name-generator",
+    "description": "A docker-like name generator",
+    "type": "library",
+    "require-dev": {
+        "phpstan/phpstan": "^1.7",
+        "symplify/easy-coding-standard": "^10.2",
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Caillioux\\ServiceNameGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Loïc",
+            "email": "loic@emagma.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "webmozart/assert": "^1.10"
+    }
+}

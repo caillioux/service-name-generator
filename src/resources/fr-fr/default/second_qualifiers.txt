@@ -1,0 +1,13 @@
+bleu
+deviant
+inquiet
+jaune
+marginal
+marron
+nain
+orange
+reveur
+rigolo
+superstitieux
+vert
+violent
